@@ -4,7 +4,7 @@ A Hindi voice agent for farmers that works inside WhatsApp. A farmer sends a voi
 
 Built solo from Mandsaur, Madhya Pradesh, for the **Great Indian AI Internship Challenge by Gnani AI**.
 
-**Demo video:** <[LINKEDIN POST LINK](https://lnkd.in/p/dvribK6X)>
+**Demo video:** [Watch here](https://lnkd.in/p/dvribK6X)
 
 ## Problem
 
