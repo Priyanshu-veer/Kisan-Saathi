@@ -3,8 +3,9 @@
 **A Hindi voice agent for farmers, inside WhatsApp.**
 Built solo by Priyanshu Veer (B.Tech CSE-AI, Mandsaur University) for the Great Indian AI Internship Challenge by Gnani AI.
 
-**Demo video:** <[LINKEDIN LINK](https://lnkd.in/p/dvribK6X)>
-**Code:** <[GITHUB LINK](https://github.com/Priyanshu-veer/Kisan-Saathi)>
+**Demo video:** [Watch on LinkedIn](https://lnkd.in/p/dvribK6X)
+
+**Code:** [GitHub repository](https://github.com/Priyanshu-veer/Kisan-Saathi)
 
 ## Problem
 A farmer in the field has urgent questions: Will it rain? What should I sow now? Typing in an app, or reading advice in English, is hard. The information exists, but the interface does not fit the farmer.
