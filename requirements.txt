@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+httpx
+python-dotenv
+python-multipart
+imageio-ffmpeg
+agno
+groq
+aiortc
+numpy
